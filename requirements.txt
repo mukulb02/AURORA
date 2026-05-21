@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+numpy
+datasets
+sentence-transformers
+transformers
+scikit-learn
+langchain-community
+qdrant-client
+pydantic
