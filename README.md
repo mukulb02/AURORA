@@ -45,6 +45,6 @@ uvicorn app.main:app --reload
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub repository},
-  howpublished = {\url{https://github.com/YOUR_USERNAME/ARS-LB}}
+  howpublished = {\url{https://github.com/mukulb02/ARS-LB}}
 }
 ```
