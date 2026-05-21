@@ -24,7 +24,7 @@ Query
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ARS-LB.git
+git clone https://github.com/mukulb02/ARS-LB.git
 cd ARS-LB
 
 pip install -r requirements.txt
