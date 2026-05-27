@@ -41,7 +41,7 @@ uvicorn app.main:app --reload
 ```bibtex
 @misc{arslb2026,
   author       = {Mukul Sharma},
-  title        = {ARS-LB: Adaptive Retrieval Strategy with Length Buckets},
+  title        = {AURORA: Adaptive Unified Retrieval with Optimized Re-Ranking and Reliability},
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub repository},
