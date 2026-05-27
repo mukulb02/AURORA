@@ -25,7 +25,7 @@ Query
 
 ```bash
 git clone https://github.com/mukulb02/AURORA.git
-cd ARS-LB
+cd AURORA
 
 pip install -r requirements.txt
 ```
