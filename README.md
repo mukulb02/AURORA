@@ -1,6 +1,6 @@
-# ARS-LB
+# AURORA
 
-Adaptive Retrieval Strategy with Length Buckets for Hybrid RAG Systems.
+Adaptive Unified Retrieval with Optimized Re-Ranking and Reliability.
 
 ## Features
 
@@ -24,7 +24,7 @@ Query
 ## Installation
 
 ```bash
-git clone https://github.com/mukulb02/ARS-LB.git
+git clone https://github.com/mukulb02/AURORA.git
 cd ARS-LB
 
 pip install -r requirements.txt
@@ -45,6 +45,6 @@ uvicorn app.main:app --reload
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub repository},
-  howpublished = {\url{https://github.com/mukulb02/ARS-LB}}
+  howpublished = {\url{https://github.com/mukulb02/AURORA}}
 }
 ```
